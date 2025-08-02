@@ -7,3 +7,5 @@ shared-backup/
 searxng/settings.yml
 searxng/uwsgi*
 supabase/
+supabase
+infra/supabase
